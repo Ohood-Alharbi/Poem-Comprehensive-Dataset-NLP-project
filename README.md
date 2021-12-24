@@ -13,15 +13,17 @@ https://hci-lab.github.io/ArabicPoetry-1-Private/
 
 
 # Tools:
-> Technologies: Python, Jupyter notebook.
+ * Technologies: Python, Jupyter notebook.
 
-> Libraries: NumPy, Pandas, Sklearn, Matplotlib, Seaborn, Tableau, nltk , pyarabic 
+* Libraries: NumPy, Pandas, Sklearn, Matplotlib, Seaborn, Tableau, nltk , pyarabic 
 
 # Models:
->	K-mean ++
+*	K-mean ++
 
->	NMF
+*	NMF
 
->	LDA
+*	LDA
 
-
+## Developers:
+* [Ohood Alharbi](https://github.com/Ohood-Alharbi)
+* [Nadiah Ajrasiaa](https://github.com/nadiahajrasiaa)
