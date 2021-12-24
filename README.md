@@ -13,12 +13,15 @@ This dataset contains 1,831,770  observations and 8 columns
 
 
 # Tools:
-•	Technologies: Python, Jupyter notebook.
-•	Libraries: NumPy, Pandas, Sklearn, Matplotlib, Seaborn, Tableau, nltk , pyarabic 
+> Technologies: Python, Jupyter notebook.
+
+> Libraries: NumPy, Pandas, Sklearn, Matplotlib, Seaborn, Tableau, nltk , pyarabic 
 
 # Models:
-•	K-mean ++
-•	NMF
-•	LDA
+>	K-mean ++
+
+>	NMF
+
+>	LDA
 
 
