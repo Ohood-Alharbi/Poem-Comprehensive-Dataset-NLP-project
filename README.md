@@ -22,8 +22,6 @@ https://hci-lab.github.io/ArabicPoetry-1-Private/
 | Right_side            | Object                          |Right side of verse.
 | Verse                 | Object                          |Verse of poem 
 
-
-
 # Tools:
  * Technologies: Python, Jupyter notebook.
 
@@ -38,4 +36,4 @@ https://hci-lab.github.io/ArabicPoetry-1-Private/
 
 ## Developers:
 * [Ohood Alharbi](https://github.com/Ohood-Alharbi)
-* [Nadiah Ajrasiaa](https://github.com/nadiahajrasiaa)
+* [Ajwad Saleh](https://github.com/Ajwadsm)
