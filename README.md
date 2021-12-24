@@ -1,6 +1,7 @@
 # Project proposal
 <p align="center">
-Poem-Comprehensive-Dataset-NLP unsupervised project
+<h1 align="center">Poem-Comprehensive-Dataset-NLP unsupervised project
+</h1>
 </p>
 <p align="center">
   <img width="500" height="400" src="https://i.pinimg.com/originals/a1/9d/6d/a19d6d60c15c08a0369d971867aa2329.jpg">
