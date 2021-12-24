@@ -11,8 +11,8 @@ The aims of this project is to apply the most important natural language process
 This dataset contains 1,831,770  observations and 8 columns. it provided by this URL :   
 https://hci-lab.github.io/ArabicPoetry-1-Private/ 
 ## Features
-| Feature name          | Data_type                 | Description                                         |        |
-|-----------------------|---------------------------------------------------------------------------------|
+| Feature name          | Data_type                 | Description                                         |       
+|-----------------------|---------------------------|-----------------------------------------------------|
 | Diabetes_012          | Object                    |The time period in which the poet lived
 | High blood pressure   | Object                    |Poet's name
 | high cholesterol      |                           |0 = no high cholesterol 1 = high cholesterol.
