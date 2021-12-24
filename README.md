@@ -1,6 +1,6 @@
 # Project proposal
 <p align="center">
-<h1 align="center">Poem-Comprehensive-Dataset-NLP unsupervised project
+<h1 align="center">Poem Comprehensive Dataset - NLP unsupervised project
 </h1>
 </p>
 <p align="center">
