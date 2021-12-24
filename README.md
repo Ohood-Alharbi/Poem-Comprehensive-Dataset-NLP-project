@@ -1,6 +1,8 @@
 # Project proposal
 # Poem-Comprehensive-Dataset-NLP-project
-
+<p align="center">
+  <img width="460" height="300" src="https://i.pinimg.com/originals/a1/9d/6d/a19d6d60c15c08a0369d971867aa2329.jpg">
+</p>
  ![Alt text](https://i.pinimg.com/originals/a1/9d/6d/a19d6d60c15c08a0369d971867aa2329.jpg)
  
 # Description:
