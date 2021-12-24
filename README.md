@@ -1,4 +1,5 @@
 # Table of Content
+- [Project proposal]()
 - [MVP project]()
 - [Final Report]()
 - [Source Code]()
