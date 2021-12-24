@@ -10,15 +10,15 @@ The aims of this project is to apply the most important natural language process
 
 # Data Description:
 This dataset contains 1,831,770  observations and 8 columns 
-Description	Type	Feature name
-The time period in which the poet lived	Object	Generation
-Poet's name	Object	Poet_name 
-It is a book that contains poems by one poet	Object	Divan
-The concept of rhyme refers to the last word in a poetic line.	Object	Rhyme
-the weights of the poem .  	Object	Poem_type
-Left side of verse.	Object	Left_side
-Right side of verse.	Object	Right_side
-Verse of poem .	Object	Verse
 
+
+# Tools:
+•	Technologies: Python, Jupyter notebook.
+•	Libraries: NumPy, Pandas, Sklearn, Matplotlib, Seaborn, Tableau, nltk , pyarabic 
+
+# Models:
+•	K-mean ++
+•	NMF
+•	LDA
 
 
