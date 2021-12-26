@@ -1,6 +1,6 @@
 # Table of Content
 - [Project proposal](https://github.com/Ohood-Alharbi/-Poem-Comprehensive-Dataset-NLP-project/blob/main/README.md)
-- [MVP project]()
+- [MVP project](https://github.com/Ohood-Alharbi/Poem-Comprehensive-Dataset-NLP-project/blob/main/MVP%20project/NLP%20Supervised%20and%20Unsupervised%20project.ipynb)
 - [Final Report]()
 - [Source Code]()
 - [Presentation]()
