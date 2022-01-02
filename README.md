@@ -1,6 +1,6 @@
 # Arabic Poems, NLP Project
 <p align="center">
-  <img src="https://i.pinimg.com/originals/62/7e/2c/627e2c6ab4e8e594b73e8379090177b0.jpg"  width=100% height=10% alt="Sublime's custom image"/>
+  <img src="https://i.pinimg.com/originals/62/7e/2c/627e2c6ab4e8e594b73e8379090177b0.jpg"  width=70% height=50% alt="Sublime's custom image"/>
 </p>
 ## Description:
 Arabic poetry is the earliest form of Arabic literature. Present knowledge of poetry in Arabic dates from the 6th century, but oral poetry is believed to predate that .This project about Arabic PCD (APCD) dataset to do EDA and using NPL algorithms.The Arabic dataset is scraped mainly from الموسوعة الشعرية and الديوان. After merging both, the total number of verses is 1,831,770 poetic verses.
