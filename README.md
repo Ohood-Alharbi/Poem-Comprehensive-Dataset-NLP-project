@@ -31,4 +31,5 @@ https://hci-lab.github.io/ArabicPoetry-1-Private/
 ## Developers:
 * [Ohood Alharbi](https://github.com/Ohood-Alharbi)
 * [Ajwad Saleh](https://github.com/Ajwadsm)
+* [Mashael Asiri](https://github.com/Mashael2030)      
 
